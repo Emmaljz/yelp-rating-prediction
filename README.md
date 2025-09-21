@@ -21,7 +21,7 @@ High-end restaurants rely on social engagement
 Family-style restaurants emphasize convenience
 Fast-food outlets focus on efficiency
 ##Data:
-Original data: Yelp Open Dataset https://chatgpt.com/c/68cf8262-2920-8328-bac9-8d62566d8577#:~:text=Original%20data:%20Yelp-,Open,-Dataset
+Original data: Yelp Open Dataset https://business.yelp.com/data/resources/open-dataset/
 Processed features (environment, taste, service quality scores) are Final_real.csv. 
 
 This work provides both a reproducible framework for platform-based restaurant analysis and actionable insights for restaurateurs.
