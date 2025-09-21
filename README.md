@@ -33,7 +33,7 @@ Processed features (environment, taste, service quality scores) are Final_real.c
 This work provides both a reproducible framework for platform-based restaurant analysis and actionable insights for restaurateurs.
 
 ## Author:
-Li Jiazhou 1a*, Liu Zihao 1b*
+Jiazhou Li 1a*, Zihao Liu 1b*
 
 1a Hainan International College, Communication University of China, Beijing 100024, China, 202429033112n@mails.cuc.edu.cn
 
